@@ -1,4 +1,4 @@
-HERANCA_1
+HERANÇA_1
 
 Este projeto tem como objetivo implementar um sistema para cadastro de clientes (pessoas físicas e jurídicas) e funcionários de uma empresa, utilizando herança para compartilhar atributos comuns entre as classes.
 
