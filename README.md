@@ -1,18 +1,37 @@
-## Getting Started
+HERANCA_1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto tem como objetivo implementar um sistema para cadastro de clientes (pessoas físicas e jurídicas) e funcionários de uma empresa, utilizando herança para compartilhar atributos comuns entre as classes.
 
-## Folder Structure
+🚀 Começando
+Enunciado:
 
-The workspace contains two folders by default, where:
+Uma empresa possui clientes que podem ser pessoas físicas (com nome, CPF, endereço e e-mail) ou pessoas jurídicas (com nome, CNPJ, endereço e e-mail). Também possui funcionários, com os atributos nome, CPF, endereço e salário.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Utilize herança para evitar repetição de código e teste as classes criando objetos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+📋 Pré-requisitos
+Você precisará das seguintes ferramentas instaladas para rodar o projeto:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Java JDK 23: Download JDK
+Visual Studio Code: Download VS Code
+Git
+Git Hub
 
-## Dependency Management
+🔧 Instalação
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Clone o repositório no seu computador
+Abra o projeto no Visual Studio Code
+Compile e execute o projeto
+
+🛠 Construído com
+Ferramentas e tecnologias utilizadas no desenvolvimento:
+
+Java JDK 23 - Para compilar e rodar o projeto
+Visual Studio Code - IDE para edição e desenvolvimento do código
+
+📌 Versão
+Versão 1.0 - Implementação inicial do projeto com as classes principais.
+Versão 1.1 - Refatoração de código e melhorias (09/09/24).
+
+✒ Autor
+Henrick Delli Colli Honorato Silva - Atividade individual - Lista de Exercícios AC2 - HERANÇA 1/4 - AC2
